@@ -1,0 +1,5 @@
+c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Service\bin\PlanetWrox.Service.dll
+c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Service\bin\PlanetWrox.Service.pdb
+c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Service\obj\Debug\ResolveAssemblyReference.cache
+c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Service\obj\Debug\PlanetWrox.Service.dll
+c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Service\obj\Debug\PlanetWrox.Service.pdb
