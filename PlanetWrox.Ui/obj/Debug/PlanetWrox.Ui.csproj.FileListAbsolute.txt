@@ -1,5 +1,0 @@
-c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Ui\bin\PlanetWrox.Ui.dll
-c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Ui\bin\PlanetWrox.Ui.pdb
-c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Ui\obj\Debug\ResolveAssemblyReference.cache
-c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Ui\obj\Debug\PlanetWrox.Ui.dll
-c:\users\arnab\documents\visual studio 2010\Projects\PlanetWrox\PlanetWrox.Ui\obj\Debug\PlanetWrox.Ui.pdb
